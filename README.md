@@ -6,3 +6,5 @@ windows
 microsoft
 jenkins
 packer
+cloudtrail
+cloudwatch
